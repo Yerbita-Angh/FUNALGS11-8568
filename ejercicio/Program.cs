@@ -35,3 +35,5 @@ else if (tipo == "pares")
 {
     Console.WriteLine("La cantidad de pares son: " + cantP);
 }
+Console.WriteLine("hello");
+Console.WriteLine("hola");
