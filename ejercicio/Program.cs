@@ -37,3 +37,4 @@ else if (tipo == "pares")
 }
 Console.WriteLine("hello");
 Console.WriteLine("hola");
+Console.WriteLine("Hi");
